@@ -1,7 +1,5 @@
 1.test one is test one
-<<<<<<< HEAD
 2.DragonBall2 is very good!
 3.dd
-=======
 4.FreeStyle is away beautiful
->>>>>>> feature-C
+
